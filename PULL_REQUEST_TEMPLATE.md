@@ -1,0 +1,1 @@
+Restore README to the original short project description and move the inline dad joke into README-dad-joke.md for clarity.
